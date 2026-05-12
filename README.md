@@ -10,11 +10,10 @@ This project shows how SQL can be used with Python in Jupyter Notebook for basic
 
 ## Project Tasks
 - Created a SQLite database
-- Inserted sales data into a table
+- Inserted sale data into a table
 - Performed basic SQL queries
 - Filtered data using WHERE, BETWEEN and CASE statements
 - Visualized SQL data using Pandas and Matplotlib
-- Created reusable query functions
 
 ## SQL Concepts Used
 - SELECT
